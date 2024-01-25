@@ -7,9 +7,6 @@
 /spec/reports/
 /tmp/
 
-# rbenv
-.ruby-version
-
 # direnv
 .envrc
 
